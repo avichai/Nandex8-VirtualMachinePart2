@@ -1,0 +1,21 @@
+roee28c, avichai
+===============================================================================
+Roee Cates, ID 308298827, roee.cates@mail.huji.ac.il
+Avichai Ben David, ID 203455126, avichai.bendavid@mail.huji.ac.il
+===============================================================================
+
+                           Project 08 - VMtranslator part2
+                           -------------------------------
+  
+
+Submitted Files
+---------------
+README - This file.
+CommandType.java - enum for the types of the command.
+CodeWriter.java - Translates VM commands into assembly code.
+Parser.java - parse the .vm file to it's parts.
+VMtranslator.java - The main class of the program.
+Makefile - makefile for the code
+VMtranslator - script to run java.
+
+
